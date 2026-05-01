@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.google.com)",
+      "Bash(git init *)",
+      "Bash(git config *)",
+      "mcp__nano-banana__generate_image",
+      "mcp__nano-banana__get_configuration_status",
+      "Bash(python .scripts/generate-token.py *)"
+    ]
+  }
+}
