@@ -1,25 +1,14 @@
-# Sessions
+Create a new D&D session recap file for the Saltmarsh campaign.
 
-This folder contains session recap notes, one file per session.
+The user will provide a session number and title (or you can infer from context). Use the template below to create the file at `sessions/session-##-short-title.md` (zero-padded number, lowercase hyphenated title).
 
-## File Naming
-
-`session-##-short-title.md`
-
-Examples:
-- `session-01-arrival-in-saltmarsh.md`
-- `session-02-the-haunted-house.md`
-- `session-03-sea-ghost-boarded.md`
-
-Use zero-padded two-digit numbers so files sort correctly.
+If the user provides session details (events, combat, loot, XP), fill in the template with that information. Otherwise, create the file with the template structure ready to fill in, and open it for the user.
 
 ## Session File Template
 
 ```markdown
 # Session ## — Title
 
-**Date Played:** YYYY-MM-DD
-**Players Present:** 
 **Location(s):** 
 **DM Notes:**
 
@@ -47,7 +36,7 @@ What happened, decisions made, outcomes.
 |---|---|
 | +1 Shortsword | Bryndis |
 
-## XP / Milestones
+## Milestones
 
 - Milestone: Discovered the smuggling operation
 
@@ -59,7 +48,3 @@ What are the players chasing going into next session?
 
 What's coming up, what the players missed, foreshadowing planted.
 ```
-
-## Sessions
-
-<!-- Add links here as sessions are recapped -->
