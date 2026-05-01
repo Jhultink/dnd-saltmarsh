@@ -27,7 +27,7 @@ NEGATIVE_PROMPT = (
     "hyperrealistic, sharp edges, digital art, cg render, 3d, anime"
 )
 
-NUM_VARIANTS = 5
+NUM_VARIANTS = 10
 
 
 BORDER_PATH = Path(__file__).parent / "token-border.png"
@@ -91,8 +91,8 @@ def main():
     images = pipe(
         full_prompt,
         negative_prompt=NEGATIVE_PROMPT,
-        num_inference_steps=6,
-        guidance_scale=2,
+        num_inference_steps=8,
+        guidance_scale=1,
         width=512,
         height=512,
         num_images_per_prompt=NUM_VARIANTS,
