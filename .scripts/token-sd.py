@@ -27,7 +27,7 @@ NEGATIVE_PROMPT = (
     "hyperrealistic, sharp edges, digital art, cg render, 3d, anime"
 )
 
-NUM_VARIANTS = 10
+NUM_VARIANTS = 6
 
 
 BORDER_PATH = Path(__file__).parent / "token-border.png"
@@ -71,14 +71,16 @@ def main():
     parser = argparse.ArgumentParser(description="Generate D&D character tokens")
     parser.add_argument("prompt", nargs="?", help="Character description")
     parser.add_argument("filename", nargs="?", help="Output filename base (e.g. 'thorin')")
+    parser.add_argument("-n", "--variants", type=int, default=NUM_VARIANTS, help="Number of variants to generate (default: 6)")
     cli = parser.parse_args()
 
     user_prompt = cli.prompt or input("Describe your character: ").strip()
     filename = cli.filename or input("Output filename base: ").strip()
+    num_variants = cli.variants if cli.variants != NUM_VARIANTS else int(input(f"Number of variants [{NUM_VARIANTS}]: ").strip() or NUM_VARIANTS)
 
     full_prompt = f"{user_prompt}, {TOKEN_STYLE}"
 
-    print(f"Generating {NUM_VARIANTS} token variants for: {user_prompt}")
+    print(f"Generating {num_variants} token variants for: {user_prompt}")
 
     pipe = AutoPipelineForText2Image.from_pretrained(
         "lykon/dreamshaper-xl-v2-turbo",
@@ -95,10 +97,10 @@ def main():
         guidance_scale=1,
         width=512,
         height=512,
-        num_images_per_prompt=NUM_VARIANTS,
+        num_images_per_prompt=num_variants,
     ).images
 
-    output_paths = [f"./tokens/{filename}-{i + 1}.png" for i in range(NUM_VARIANTS)]
+    output_paths = [f"./tokens/{filename}-{i + 1}.png" for i in range(num_variants)]
 
     with ThreadPoolExecutor() as executor:
         executor.map(save_token, zip(images, output_paths))
