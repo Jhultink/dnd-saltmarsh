@@ -1,8 +1,8 @@
-# Snax
+# Snacks
 
 - **Player:** 
-- **Race:** 
-- **Class & Level:** 
+- **Race:** Dwarf
+- **Class & Level:** Fighter/Barbarian
 - **Background:** 
 - **Alignment:** 
 
@@ -16,7 +16,7 @@ Composed under pressure — stayed awake by Toro's grave the night the assassins
 
 ## Backstory
 
-Arrived in Saltmarsh aboard the Sharkfin. The ship wrecked in a storm; Snax lost his shield to the sea but recovered it after strong-arming Winston. Took the haunted house job from Anders for 1 potion + 90gp.
+Arrived in Saltmarsh aboard the Sharkfin. The ship wrecked in a storm; Snacks lost his shield to the sea but recovered it after strong-arming Winston. Took the haunted house job from Anders for 1 potion + 90gp.
 
 ## Abilities & Notable Skills
 

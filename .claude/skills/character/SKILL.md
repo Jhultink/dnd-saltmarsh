@@ -2,7 +2,7 @@
 description: Create or update a D&D character file for the Saltmarsh campaign — player characters or NPCs (ally or villain)
 ---
 
-Create a new character file or update an existing one in `characters/`. Handle player characters (PCs), allied NPCs, and antagonist NPCs.
+Create a new character file or update an existing one in `docs/characters/`. Handle player characters (PCs), allied NPCs, and antagonist NPCs.
 
 ## Folder Structure
 
@@ -10,23 +10,23 @@ Characters are organized into three subfolders based on type:
 
 | Type | Folder |
 |---|---|
-| Player characters | `characters/pcs/` |
-| Allied NPCs (friendly, neutral, or allied) | `characters/allies/` |
-| Villains and antagonists | `characters/enemies/` |
+| Player characters | `docs/characters/pcs/` |
+| Allied NPCs (friendly, neutral, or allied) | `docs/characters/allies/` |
+| Villains and antagonists | `docs/characters/enemies/` |
 
 Always place new files in the correct subfolder. When updating, search all three subfolders.
 
 ## Workflow
 
 1. **Determine intent** — Is the user creating a new character or updating an existing one?
-   - If updating: find the file in `characters/pcs/`, `characters/allies/`, or `characters/enemies/` and edit only the fields the user mentions. Preserve everything else.
+   - If updating: find the file in `docs/characters/pcs/`, `docs/characters/allies/`, or `docs/characters/enemies/` and edit only the fields the user mentions. Preserve everything else.
    - If new: ask for any missing required fields before writing the file.
 
 2. **Determine character type** — PC, allied NPC, or villain/antagonist. This determines which subfolder and which template to use (see below).
 
 3. **Infer the filename** from the character's name:
    - Use `firstname-lastname.md` if a last name / family name is known, otherwise `firstname.md`.
-   - Lowercase, hyphen-separated. Example: `characters/pcs/aelar-swiftwind.md`, `characters/allies/oleander.md`.
+   - Lowercase, hyphen-separated. Example: `docs/characters/pcs/aelar-swiftwind.md`, `docs/characters/allies/oleander.md`.
 
 4. **Write or update the file** using the appropriate template below. If information is unknown, leave the section blank. Do NOT invent details that the user has not provided.
 

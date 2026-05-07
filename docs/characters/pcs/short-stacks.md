@@ -2,8 +2,8 @@
 
 - **Player:** 
 - **Full Name:** Baja'eesmanon'abujascrunchee
-- **Race:** 
-- **Class & Level:** (Stealth and infiltration focus — likely Rogue)
+- **Race:** Halfling
+- **Class & Level:** Rogue
 - **Background:** 
 - **Alignment:** 
 
