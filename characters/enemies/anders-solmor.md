@@ -3,7 +3,7 @@
 - **Role:** Town Councilmember (Traditionalist faction); Scarlet Brotherhood agent
 - **Race:** Human (appears young)
 - **Affiliation:** Saltmarsh Town Council (public); Scarlet Brotherhood (true allegiance)
-- **Status:** In custody — captured at end of Battle of Saltmarsh (Session 14)
+- **Status:** Imprisoned — held in Saltmarsh prison as of Session 15
 
 ## Appearance
 
@@ -30,4 +30,4 @@ Hired the party in Session 01 for the haunted house investigation — their firs
 - A ciphered letter found in his house (Session 08) contains: *"...we shall ensure that the Scarlet Brotherhood gains control of Saltmarsh... Act quickly and discreetly..."*
 - Skerrin was his operative — Skerrin murdered Eliander Fireborn and framed the lizardfolk. Anders likely knew or ordered this.
 - He is now in custody. He may know: who the blue dragon serves, whether he ordered Eliander's murder, and the full extent of Scarlet Brotherhood operations in Saltmarsh.
-- The promissory notes he had the party retrieve from the Empress — their exact significance was never shared with the party.
+- Under interrogation in Session 15, Anders confirmed he converted all of the promissory notes to gold and paid that gold to the blue dragon — his patron. The notes are gone. He showed no remorse.

@@ -28,4 +28,5 @@ Has developed into the party's most reliable council ally. Confronted them direc
 
 - Eda is Captain Hex's sister (real name Hector Oweland). She wrote him a personal letter asking him to return to Saltmarsh, using the party as couriers.
 - She has been working to clear Hex's name and ensure his safe return.
+- As of Session 15, she is effectively in control of Saltmarsh — Anders is imprisoned, Skerrin is dead, Gellan has vanished, and Eliander Fireborn was murdered. She is the last council figure standing other than Manistrad.
 - The extent of her knowledge of the Scarlet Brotherhood conspiracy is unclear.

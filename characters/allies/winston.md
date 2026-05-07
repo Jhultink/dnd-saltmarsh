@@ -19,6 +19,8 @@ Adversarial at first — the party had to strong-arm him into returning Snax's s
 
 In Session 14 his secret was revealed: he fought in dragon form during the Battle of Saltmarsh, was knocked unconscious, and reverted to his true form — a silver dragon.
 
+In Session 15, after recovering, he shifted back to halfling form and spoke openly with the party for the first time about what he is. He confirmed he is a silver dragon cursed by a necromancer, named the curse as the source of the black infection on his wing, and directly asked the party for their help in breaking it.
+
 ## Useful To The Party
 
 - Supplies potions, healing kits, and magical goods (negotiated bulk deal: 200gp upfront + 200gp on delivery for 500gp worth of supplies).
@@ -29,7 +31,7 @@ In Session 14 his secret was revealed: he fought in dragon form during the Battl
 
 ## Story Notes
 
-- The necromancer from Winston's past is an unresolved thread. He made a vague, uncomfortable reference to it and clearly does not want to revisit that chapter of his life.
-- The black infection spreading across his wing in Session 14 may be connected to that necromancer.
+- The necromancer from Winston's past has moved from vague hint to active hook: he confirmed in Session 15 that a necromancer cursed him, that the black infection on his wing is the mark of that curse, and that he wants the party's help breaking it.
+- The necromancer's identity and location are unknown.
 - He has been living as a halfling shopkeeper in Saltmarsh, apparently in hiding or retirement from his true nature.
 - His adventuring past and his confrontation with Xindrad suggest he was active in this region roughly 15 years ago.

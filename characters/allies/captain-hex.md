@@ -28,5 +28,5 @@ The party was sent to him by Eda (his sister) with a sealed letter. They opened 
 
 - Hex has been living in exile at Black Skull Cove for an unspecified reason. Eda's letter promises to clear his name if he returns.
 - The Shadow is a phantom ship: no crew, no captain, surrounded by permanent storms and moving islands. The party pieced together that the *Empress of the Waves* likely had a prior encounter with it.
-- The blood oath to claim the Shadow is a major unresolved arc hook — the party is bound to it.
+- The blood oath to claim the Shadow is now the active arc — the party agreed in Session 15 to sail with Hex and hunt it down.
 - Hex may have existing knowledge of the Shadow that he hasn't shared yet.
