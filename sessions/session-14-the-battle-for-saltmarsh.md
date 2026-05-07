@@ -73,7 +73,3 @@ The party revived Winston, slew the remaining Sahuagin, and killed Skerrin (long
 ## Cliffhanger / Next Session Hook
 
 The battle is won but the war is not. Anders is in chains. The blue dragon is still out there. The Scarlet Brotherhood's reach is unknown. And the party still owes Captain Hex a debt: the Shadow awaits.
-
-## DM Notes (Private)
-
-The blue dragon likely serves the Scarlet Brotherhood or is a direct patron of Anders. Winston's injury (black infection on wing) may be tied to the necromancer from his past. The question of who killed Eliander remains open — Skerrin is dead and can't confess, but Anders may know. The Shadow arc is next.

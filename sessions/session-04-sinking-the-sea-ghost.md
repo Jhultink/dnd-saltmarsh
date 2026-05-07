@@ -59,7 +59,3 @@ The council was pleased the Sea Ghost was sunk but alarmed by the lizardfolk wea
 ## Cliffhanger / Next Session Hook
 
 The party enters the fringes of the marsh and hears small voices chanting: "Gulpa'Gor... Gulpa'Gor... Gulpa'Gor..."
-
-## DM Notes (Private)
-
-The hand-drawn map marks the lizardfolk mound. The lizardfolk are buying weapons to fight Sahuagin, not to attack Saltmarsh. The dark shape seen near Anders' mansion was Skerrin doing something suspicious.

@@ -56,7 +56,3 @@ None this session.
 ## Cliffhanger / Next Session Hook
 
 The well is poisoned, the storehouse is burnt, and eyewitnesses say the party did it. The party needs to confront Xindrad while being framed for crimes in their own town.
-
-## DM Notes (Private)
-
-Skerrin (and Anders' Scarlet Brotherhood contacts) planted the false witnesses. The partially decoded letter will reveal the Scarlet Brotherhood's goal to take Saltmarsh. Xindrad needs to die — the deal is impossible to honor and Eda knows it.

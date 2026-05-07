@@ -60,7 +60,3 @@ Snacks stepped up and defeated the lizardfolk warrior in unarmed combat.
 ## Cliffhanger / Next Session Hook
 
 Six trials remain. Saurix will guide the party through them — starting with Knowledge.
-
-## DM Notes (Private)
-
-The Black Dragon is Xindrad the Fierce — the party will need to negotiate with him in Trial 7. He has been demanding eggs as tribute and will soon demand more. The party's tentative Sahuagin-slave proposal to Xindrad will prove very difficult to deliver on.

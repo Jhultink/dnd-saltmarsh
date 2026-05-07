@@ -44,7 +44,3 @@ After a night at the rowdy Empty Net, the party heard a public address from Ande
 ## Cliffhanger / Next Session Hook
 
 The party is inside the haunted house. Tracks on the floor, creaking from above — someone else is in here.
-
-## DM Notes (Private)
-
-The "haunted house" is actually a smuggling front. Ned is a lookout. The Sea Princes are operating below. Nunya (Sanbalet) is the arcane contact who will nearly escape at the end of next session.

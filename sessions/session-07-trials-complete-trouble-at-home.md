@@ -56,7 +56,3 @@ The party investigated Eliander's burnt-out home. Not much remained — but the 
 ## Cliffhanger / Next Session Hook
 
 Skerrin is on the council. The back door at Eliander's was picked. Anders may have hired the party for an ulterior reason. Something is rotten in Saltmarsh's upper circles.
-
-## DM Notes (Private)
-
-Skerrin killed Eliander and framed the lizardfolk. The ciphered letter in Anders' house will reveal Scarlet Brotherhood involvement. The Sahuagin-servant deal with Xindrad is essentially impossible to honor — it will need to be resolved by killing Xindrad or renegotiating.

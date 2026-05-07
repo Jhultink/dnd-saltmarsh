@@ -43,7 +43,3 @@ None significant this session.
 ## Cliffhanger / Next Session Hook
 
 Three trials remain: Etiquette (Locathah), Speed (Merfolk), and Negotiation (Xindrad). The party now knows Xindrad wants artifacts and gold on top of eggs.
-
-## DM Notes (Private)
-
-The shamans' hostility is worth noting — not all lizardfolk want this alliance with Saltmarsh. The Negotiation trial with Xindrad will test whether the party can avoid a fight with a dragon while returning the eggs.

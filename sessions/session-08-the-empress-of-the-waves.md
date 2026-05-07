@@ -65,7 +65,3 @@ Krell and his two phase spiders were defeated — then a massive tentacle reache
 ## Cliffhanger / Next Session Hook
 
 A giant tentacle is attacking the ship. It's capsizing. Everyone needs to get out — now.
-
-## DM Notes (Private)
-
-The promissory notes relate to Anders' Scarlet Brotherhood dealings. The giant octopus is purely environmental danger — no enemy, just nature. The ciphered letter the party found will eventually reveal "the Scarlet Brotherhood gains control of Saltmarsh."

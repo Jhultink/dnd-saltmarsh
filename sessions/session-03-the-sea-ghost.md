@@ -61,7 +61,3 @@ Using the Bullseye Lantern and the signal codes, the party set up at the haunted
 ## Cliffhanger / Next Session Hook
 
 Battle raging on the deck of the Sea Ghost. The party is outnumbered on unfamiliar terrain.
-
-## DM Notes (Private)
-
-The Sea Ghost holds Oceanus (sea elf prisoner), lizardfolk passengers, a young sailor named Charlie, and smuggled weapons marked with a forked lizard tongue. Anders' vote was flipped by Skerrin — a first hint that Skerrin is not what he seems.

@@ -56,7 +56,3 @@ The party attempted to infiltrate Gellan Primewater's estate. Gellan threw them 
 ## Cliffhanger / Next Session Hook
 
 Short Stacks is inside Gellan's basement. What is Gellan hiding?
-
-## DM Notes (Private)
-
-Toro's grave on the bluff will become a recurring emotional touchstone. The Scarlet Brotherhood is the macro-level villain faction. Gellan is a Sea Princes smuggler — his basement holds weapons destined for both lizardfolk and Sahuagin, evidence of deliberate destabilization.

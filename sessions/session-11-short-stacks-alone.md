@@ -45,7 +45,3 @@ None — stealth only.
 ## Cliffhanger / Next Session Hook
 
 Short Stacks has the notes and a sword. Time to reunite with the party and figure out what to do with this information.
-
-## DM Notes (Private)
-
-The hooded figure and half-genasi woman are Sea Princes agents — they will be among the assassins who attack the party's cottage next session (along with Sanbalet/Nunya). Gellan is actively destabilizing Saltmarsh on behalf of the Sea Princes.

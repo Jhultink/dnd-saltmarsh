@@ -60,7 +60,3 @@ A secret passage led into tunnels where the party surprised more smugglers beari
 ## Cliffhanger / Next Session Hook
 
 The arcane user "Nunya" has escaped onto the Azure Sea. Short Stacks is unconscious. The party holds the signal codes and lantern — they could use this to lure the smugglers' ship.
-
-## DM Notes (Private)
-
-The arcane user is Sanbalet, alias "Nunya." He will resurface later as an assassin working for the Sea Princes. The unidentified magical stone is a Luck Stone (Toro will identify it next session).

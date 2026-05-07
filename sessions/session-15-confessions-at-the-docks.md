@@ -48,7 +48,3 @@ With Anders imprisoned and Saltmarsh in Eda's hands, the party made their next m
 ## Cliffhanger / Next Session Hook
 
 The party sets sail with Captain Hex. Their quarry: the Shadow. Winston's curse hangs in the background — the necromancer responsible is still out there.
-
-## DM Notes (Private)
-
-The sibling connection between Eda and Hex opens room for tension if their goals ever diverge. Winston's ask for help is a slow-burn hook — the necromancer behind his curse could surface as a villain or a source of exposition about the larger threats in the region. Anders still knows things about the Scarlet Brotherhood and the blue dragon; consider what he reveals under extended questioning and whether the party pursues that thread before leaving Saltmarsh.

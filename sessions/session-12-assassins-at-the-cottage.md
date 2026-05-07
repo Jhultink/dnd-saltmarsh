@@ -54,7 +54,3 @@ The party launched the Sloop and navigated Shipwreck Pass, a narrow channel thro
 ## Cliffhanger / Next Session Hook
 
 The party is through Shipwreck Pass and approaching Black Skull Cove. Who is Eda's mystery pirate?
-
-## DM Notes (Private)
-
-The pirate at Black Skull Cove is Captain Hex (real name Hector), Eda's brother. He has been in exile and will only return if the party swears a blood oath to help him claim the Shadow — a legendary phantom ship. The Empress of the Waves likely had a prior encounter with the Shadow.

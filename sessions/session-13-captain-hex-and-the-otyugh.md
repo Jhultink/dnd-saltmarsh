@@ -49,7 +49,3 @@ None significant noted.
 ## Cliffhanger / Next Session Hook
 
 The battle for Saltmarsh is imminent. Defenses need to be set. Allies need to be rallied. The Sahuagin are coming.
-
-## DM Notes (Private)
-
-The blood oath to claim the Shadow is a major future arc hook. The Shadow may be connected to the Scarlet Brotherhood or the necromancer referenced by Winston. Skerrin is still alive and on the council — he will appear as an enemy combatant in the battle.

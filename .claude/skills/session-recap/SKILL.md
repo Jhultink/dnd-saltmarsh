@@ -4,6 +4,8 @@ The user will provide a session number and title (or you can infer from context)
 
 If the user provides session details (events, combat, loot, XP), fill in the template with that information. Otherwise, create the file with the template structure ready to fill in, and open it for the user.
 
+If the user provide session details, also update the relevant character files with any new information revealed about the characters during the session (e.g. new relationships, backstory details, personality traits, etc.).
+
 ## Session File Template
 
 ```markdown
@@ -43,8 +45,3 @@ What happened, decisions made, outcomes.
 ## Cliffhanger / Next Session Hook
 
 What are the players chasing going into next session?
-
-## DM Notes (Private)
-
-What's coming up, what the players missed, foreshadowing planted.
-```
