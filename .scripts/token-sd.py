@@ -100,7 +100,7 @@ def main():
         num_images_per_prompt=num_variants,
     ).images
 
-    output_paths = [f"./tokens/{filename}-{i + 1}.png" for i in range(num_variants)]
+    output_paths = [f"./planning/tokens/{filename}-{i + 1}.png" for i in range(num_variants)]
 
     with ThreadPoolExecutor() as executor:
         executor.map(save_token, zip(images, output_paths))
