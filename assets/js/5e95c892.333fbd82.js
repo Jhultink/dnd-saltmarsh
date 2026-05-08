@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdnd_saltmarsh=self.webpackChunkdnd_saltmarsh||[]).push([["1668"],{6569(s,e,r){r.r(e),r.d(e,{default:()=>l});var a=r(4848);r(6540);var d=r(4164),n=r(4308),t=r(8287),u=r(2831),c=r(1085);function l(s){return(0,a.jsx)(n.e3,{className:(0,d.A)(t.G.wrapper.docsPages),children:(0,a.jsx)(c.A,{children:(0,u.v)(s.route.routes)})})}}}]);

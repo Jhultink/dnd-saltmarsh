@@ -1,8 +1,0 @@
-{
-  "label": "Session Recaps",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Summaries of each session in the Saltmarsh campaign."
-  }
-}
