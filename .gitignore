@@ -4,7 +4,6 @@ Thumbs.db
 
 # Editor files
 .vscode/
-*.code-workspace
 
 # Large binary files (commit intentionally, not by accident)
 *.psd
