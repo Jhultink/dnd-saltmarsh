@@ -6,6 +6,8 @@ If the user provides session details (events, combat, loot, XP), fill in the tem
 
 If the user provide session details, also update the relevant character files with any new information revealed about the characters during the session (e.g. new relationships, backstory details, personality traits, etc.).
 
+Ask the user as many follow-up questions as needed to gather the necessary information to create a comprehensive session recap.
+
 ## Session File Template
 
 ```markdown

@@ -1,22 +1,24 @@
 ---
-description: Plan an upcoming D&D session for the Saltmarsh campaign — generates a loose, modular session plan file in plans/
+description: Plan an upcoming D&D session for the Saltmarsh campaign — generates a loose, modular session plan file in planning/upcoming-sessions/ based on the latest recap, character files, and the DM's intent for the session.
 ---
 
-Create a session plan file at `plans/session-##-short-title.md` (zero-padded number, lowercase hyphenated title).
+Create a session plan file at `planning/upcoming-sessions/session-##-short-title.md` (zero-padded number, lowercase hyphenated title).
 
 ## Inputs to gather before writing
 
 1. **Most recent session recap** — read the latest file in `docs/sessions-recaps/` to understand where the story left off, what hooks were set, and what the party is chasing.
 2. **Character files** — read all files in `docs/characters/pcs/`, `docs/characters/allies/`, and `docs/characters/enemies/` to surface relevant motivations, relationships, and ongoing threads.
 3. **User's intent** — ask the user for a short description of what they want this session to accomplish or explore. If they provide it upfront as an argument, use that directly.
+4. **Input from the user** — ask any follow-up questions needed to clarify their intent and gather any specific elements they want included (e.g. a particular NPC, location, or type of encounter).
 
 ## Workflow
 
 1. Read the most recent recap and all character files (can be done in parallel).
 2. If the user hasn't provided a direction or theme, ask for one before proceeding.
-3. Infer the session number from the recaps (next in sequence). Ask the user for a short title if one isn't obvious from the direction they provided.
-4. Write the plan file using the template below. Keep it loose and modular — lay out key elements and options without prescribing a rigid sequence. The plan should help the DM improvise, not constrain them.
-5. After writing, mention the file path and briefly summarize the through-line in one or two sentences.
+3. Ask the user any follow-up questions needed to clarify their intent and gather any specific elements they want included (e.g. a particular NPC, location, or type of encounter).
+4. Infer the session number from the recaps (next in sequence). Ask the user for a short title if one isn't obvious from the direction they provided.
+5. Write the plan file using the template below. Keep it loose and modular — lay out key elements and options without prescribing a rigid sequence. The plan should help the DM improvise, not constrain them.
+6. After writing, mention the file path and briefly summarize the through-line in one or two sentences.
 
 ## Guidelines
 
