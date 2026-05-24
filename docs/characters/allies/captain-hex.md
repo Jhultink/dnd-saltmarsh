@@ -4,6 +4,7 @@
 - **Real Name:** Hector Oweland
 - **Race:** 
 - **Affiliation:** His own crew; Black Skull Keep
+- **Ship:** Stormcaller
 - **Location:** Black Skull Keep (Black Skull Cove) — now returned to Saltmarsh
 
 ## Appearance
@@ -16,7 +17,7 @@ Pragmatic and deal-driven. Agreed to return to Saltmarsh and bring his crew to d
 
 ## Relationship to the Party
 
-The party was sent to him by Eda (his sister) with a sealed letter. They opened it beforehand. He agreed to Eda's request — but made the party swear a blood oath to help him claim the Shadow in exchange for his military help. He docked his ship at the old haunted house and joined the Battle of Saltmarsh.
+The party was sent to him by Eda (his sister) with a sealed letter. They opened it beforehand. He agreed to Eda's request — but made the party swear a blood oath to help him claim the Shadow in exchange for his military help. He docked the Stormcaller at the old haunted house and joined the Battle of Saltmarsh.
 
 ## Useful To The Party
 

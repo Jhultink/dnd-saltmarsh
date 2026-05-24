@@ -23,7 +23,7 @@ Captain Hex (real name Hector) is Eda's brother — living in exile at Black Sku
 Some shopping in the Gullet, the pirate market at Black Skull Cove, before heading back.
 
 ### Scene 4 — Return to Saltmarsh
-Hex docked his ship at the old haunted house (now abandoned). The party took Sloop into Saltmarsh proper. Eda and Manistrad met them, along with two of Manistrad's top fighters: Grenmiirr and Flemin.
+Hex docked the Stormcaller at the old haunted house (now abandoned). The party took Sloop into Saltmarsh proper. Eda and Manistrad met them, along with two of Manistrad's top fighters: Grenmiirr and Flemin.
 
 Eda asked for help setting up defenses. Manistrad had a separate ask: a creature had been secretly attacking dwarves in the mines for months. The dwarves had kept it quiet to avoid panic. With the battle coming, they needed the mines cleared so the dwarves could fight.
 

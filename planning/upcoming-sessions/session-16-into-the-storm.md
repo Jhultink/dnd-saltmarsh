@@ -58,7 +58,7 @@ She doesn't explain how she knows. She moves behind the counter and begins setti
 - The Widow's Kiss daggers feel like they belong in Short Stacks' hands. Xendros will glance at them when she sets them on the counter.
 
 ### Scene 2 — Open Water
-The party is aboard Hex's ship, a day or two out from Saltmarsh. Clear skies, calm water — the calm before everything changes. This is the scene for Hex to lay out what he knows and for the crew to become real people before the storm swallows them.
+The party is aboard the Stormcaller, a day or two out from Saltmarsh. Clear skies, calm water — the calm before everything changes. This is the scene for Hex to lay out what he knows and for the crew to become real people before the storm swallows them.
 
 **How Hex navigates:** He doesn't have charts for the Shadow — no one does. What he has is a star cluster. Navigators who've spotted the Shadow all describe the same thing: a group of stars that doesn't match any known constellation, low on the horizon, visible only on clear nights. Hex has been tracking it for years, cross-referencing sailor accounts, and he's confident he knows the heading. For now. Once they're in the storm, the stars vanish and the compass becomes everything.
 
