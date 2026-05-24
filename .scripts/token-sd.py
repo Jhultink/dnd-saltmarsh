@@ -76,7 +76,7 @@ def main():
 
     user_prompt = cli.prompt or input("Describe your character: ").strip()
     filename = cli.filename or input("Output filename base: ").strip()
-    num_variants = cli.variants if cli.variants != NUM_VARIANTS else int(input(f"Number of variants [{NUM_VARIANTS}]: ").strip() or NUM_VARIANTS)
+    num_variants = cli.variants
 
     full_prompt = f"{user_prompt}, {TOKEN_STYLE}"
 
