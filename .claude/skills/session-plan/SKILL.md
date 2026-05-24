@@ -23,7 +23,7 @@ Create a session plan file at `planning/upcoming-sessions/session-##-short-title
 ## Guidelines
 
 - **Draw on established fiction.** Reference specific characters, places, and threads already in the campaign files. Don't invent details that contradict or ignore established facts.
-- **Each element should be optional.** Mark encounters, NPCs, and beats as things that *could* happen, not a checklist to complete.
+- **Each element should be optional.** Mark encounters, NPCs, and scenes as things that *could* happen, not a checklist to complete.
 - **Keep it practical.** The DM should be able to run from this doc with minimal extra prep.
 - **Leave room for players.** Don't over-plan. A few clear entry points and meaningful choices beat a fully scripted session.
 
@@ -39,14 +39,14 @@ Create a session plan file at `planning/upcoming-sessions/session-##-short-title
 
 ---
 
-## Story Beats
+## Story scenes
 
 Key moments or scenes that could anchor the session. Order is loose — let the players drive which of these happen and when.
 
-### Beat 1 — Title
+### Scene 1 — Title
 What this scene is about, why it matters, how it might start.
 
-### Beat 2 — Title
+### Scene 2 — Title
 ...
 
 ---
