@@ -68,6 +68,17 @@ The party is aboard the Stormcaller, a day or two out from Saltmarsh. Clear skie
 - He cannot find the Shadow without the compass on Lolth's Island. He's known this for years and has never been able to take it. He doesn't say why unprompted.
 - He believes the Shadow can be *claimed* — not by force, but by breaking the curse on its current captain.
 
+**What Hex knows about Lolth (share what fits):**
+
+Hex has done his homework. He delivers this like a captain briefing his crew before a port raid — flat, practical, no drama.
+
+- *"She's not a demon. Not a monster. She's a goddess. The Spider Queen. Her proper domain is the Underdark — the drow worship her, have for centuries. Her being on a sea island makes no sense, which is exactly why she's dangerous. Something drew her here. I don't know what."*
+- *"Her followers don't negotiate. They don't break. Drow cultists, surface converts — it doesn't matter. They worship chaos and obedience in equal measure, and that combination makes them unpredictable."*
+- *"Spiders are hers. All of them. Phase spiders especially — they can blink in and out of the material plane. Don't let them get behind you."*
+- *"She transforms her failures. The ones who disappoint her — she turns them into driders. Half-drow, half-spider. She keeps them as enforcers. If you see something that looks wrong in a way that shouldn't be possible, that's what you're looking at."*
+- *"The compass is hers. She made it or she claimed it — I don't know which. It navigates by web, not by north. It points toward the thing she wants found. Right now that thing is the Shadow. I've spent a long time wondering why she wants anyone to find it."* He won't say more on that. Not yet.
+- *"One more thing. She may speak before she fights. Drow theology rewards cruelty with patience — she'll want you to understand why you're losing before she kills you. Don't let her talk. It's not an opening. It's her closing."*
+
 **Crew NPCs — RP hooks:**
 
 *Maren* — the ship's navigator, mid-40s, weathered. She's the one actually plotting the course from Hex's star notes. She's been Hex's navigator for six years and believes in the hunt, but she keeps a private count of how many of Hex's plans have needed improvising. She'll talk to party members who show interest in navigation or who ask practical questions. She won't second-guess Hex to his face, but she's not above raising an eyebrow at the right moment. Hook: she's quietly worried about what happens if the star cluster disappears before they reach the storm edge — she'll mention it only if someone asks how confident she is.
@@ -142,5 +153,4 @@ The party is close enough to see it. Not close enough to board. End there.
 - [ ] Stat out Lolth's avatar/demigod form — decide CR, legendary actions, lair actions (web eruptions, rain effects, spider swarms). She should be a genuine threat.
 - [ ] Does Lolth say anything before the fight? She may recognize what the compass is for and taunt Hex about it — or warn the party that the Shadow is not what they think.
 - [ ] The Shadow's cursed captain: give them a name before next session. They'll need one when the party eventually boards.
-- [ ] Winston is not with the party this arc — keep his thread warm for when they return to Saltmarsh.
 - [ ] The Empress of the Waves captain's logs (Session 08) described an encounter with this island. The party may or may not remember this. If they do, it's a satisfying callback.
