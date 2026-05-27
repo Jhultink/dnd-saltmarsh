@@ -79,22 +79,25 @@ The party is aboard the Stormcaller, a day or two out from Saltmarsh. Clear skie
 ### Scene 3 — The Storm on the Horizon
 The permanent storm becomes visible: a dark wall of cloud and lightning that doesn't track with the weather. It's unmistakable. The sea changes — the color, the smell, the temperature. Hex's crew gets quiet. This is the moment the Shadow becomes real to the party rather than a legend.
 
+The PCs feel... watched. 
+
 A sailor might share a fragment of local myth: "The storms don't kill you. They just make sure you don't leave."
 
 The storm ring is wide — it would take most of a day to sail around trying to find an entry point, and there may not be one. The only way in is through.
 
-### Scene 4 — Lolth's Island
+### Scene 4 — Landing on the Island
 Intercepting the island is itself a challenge — it doesn't sit still. It orbits the interior of the storm in a slow, wide ring, and heading straight for it puts you where it was, not where it is. Hex knows roughly how to pace the intercept, but it takes work (Navigation skill challenge to land without being dashed against the rocks).
 
 When they make landfall: it is raining. Not storm-rain — a steady, cold, relentless downpour that falls straight down even when the winds are screaming around the island's edge. The trees are dark and waterlogged. Spiderwebs hang everywhere, silver with rain. The island feels watched.
 
-The compass is here. So is Lolth.
+There are signs of habitation — crude shrines wrapped in silk, small animal bones strung between the trees, the smell of smoke somewhere inland. Whatever lives here knows they've arrived.
 
-**The fight:** Lolth herself is present on the island — not a proxy, not a cultist. Her. The encounter begins with a confrontation with her Lolth-worshipping druids and phase spiders, but it escalates into a battle against Lolth in a powerful avatar or demigod form. This is a major set-piece fight. The island is her domain; she has home advantage. The compass sits in the center of her sanctum.
+### Scene 5 — Entering Lolth's Cave
+Moving inland, the party follows the signs toward a cave mouth in the island's rocky heart — the sanctum. The druids and phase spiders are here. They are the threshold.
 
-The druids and spiders serve as the opener — they buy her time to manifest. Once she does, the battlefield changes: the rain intensifies, webs erupt from the trees, and she fights to protect the compass.
+The fight begins with the cultists and phase spiders, but it escalates: once enough of them fall, Lolth manifests. The rain intensifies, webs erupt from the trees, and she enters the battlefield. This is a major set-piece fight on her home ground. The compass sits in the center of her sanctum.
 
-### Scene 5 — The Shadow at the Edge of Sight
+### Scene 6 — The Shadow at the Edge of Sight
 Whether the party fights, parleys, or sneaks through, close the session with the Shadow itself becoming visible: a massive black-hulled galleon, moving under full sail with no wind to drive it, silent except for the creak of rigging. No lights. No crew on deck. Just the ship, sailing alone.
 
 It's huge. Bigger than it has any right to be.
