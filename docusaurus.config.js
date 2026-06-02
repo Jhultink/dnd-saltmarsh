@@ -22,12 +22,12 @@ const config = {
   url: 'https://jhultink.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/DnD-Saltmarsh/',
+  baseUrl: '/dnd-saltmarsh/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Jhultink', // Usually your GitHub org/user name.
-  projectName: 'DnD-Saltmarsh', // Usually your repo name.
+  projectName: 'dnd-saltmarsh', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
