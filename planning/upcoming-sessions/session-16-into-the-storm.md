@@ -43,12 +43,11 @@ She doesn't explain how she knows. She moves behind the counter and begins setti
 |---|---|---|---|---|
 | 1 | Cloak of the Manta Ray | D&D | 500gp | Breathe underwater, 60ft swim speed — she puts this one out first, deliberately |
 | 2 | Boots of Spider Climbing | D&D | 400gp | Climb any surface, hands free — Lolth's terrain is web and stone |
-| 3 | Necklace of Adaptation | D&D | 1,500gp | Breathe anywhere; advantage on saves vs. inhaled hazards including storm air |
-| 4 | Ring of Free Action | D&D | 2,000gp | Immune to difficult terrain and paralysis — useful when a goddess throws webs at you |
-| 5 | Stormward Cloak | Homebrew | 1000gp | Woven from a sail that survived the Azure Eye. Advantage on Con saves; wind doesn't impose disadvantage on your ranged attacks |
+| 4 | Ring of Free Action | D&D | 800gp | Immune to difficult terrain and paralysis — useful when a goddess throws webs at you |
+| 5 | Stormward Cloak | Homebrew | 800gp | Woven from a sail that survived the Azure Eye. Advantage on Con saves; wind doesn't impose disadvantage on your ranged attacks |
 | 6 | Widow's Kiss | Homebrew | 600gp | A slim dagger. On hit, target makes DC 13 Con save or is restrained by magical webbing until end of their next turn. Short Stacks would find these useful |
 | 7 | Mariner's Boon | Homebrew | 300gp | A carved driftwood token. Once per day: cast Water Walk on yourself (1 hour, no concentration). Advantage on Athletics to swim or climb rigging |
-| 8 | Vial of Hearthfire | Homebrew | 250gp | Fire from Xendros' home realm. Throw it (30ft, 2d8 fire, DC 13 Dex save). Or use it as a spell component to cast Heat Metal once without material cost. Then it's just warm glass |
+| 8 | Vial of Hearthfire | Homebrew | 200gp | Fire from Xendros' home realm. Throw it (30ft, 2d8 fire, DC 13 Dex save). Or use it as a spell component to cast Heat Metal once without material cost. Then it's just warm glass |
 | 9 | Sending Stones (pair) | D&D | 700gp | Leave one somewhere safe; use the other to send 25-word messages across any distance |
 
 **Notes on the inventory:**
@@ -99,7 +98,8 @@ The storm ring is wide — it would take most of a day to sail around trying to 
 ### Scene 4 — Landing on the Island
 Intercepting the island is itself a challenge — it doesn't sit still. It orbits the interior of the storm in a slow, wide ring, and heading straight for it puts you where it was, not where it is. Hex knows roughly how to pace the intercept, but it takes work (Navigation skill challenge to land without being dashed against the rocks).
 
-When they make landfall: it is raining. Not storm-rain — a steady, cold, relentless downpour that falls straight down even when the winds are screaming around the island's edge. The trees are dark and waterlogged. Spiderwebs hang everywhere, silver with rain. The island feels watched.
+When they make landfall: it is raining. Not storm-rain — a steady, cold, relentless downpour that falls
+ straight down even when the winds are screaming around the island's edge. The trees are dark and waterlogged. Spiderwebs hang everywhere, silver with rain. The island feels watched.
 
 **The first thing they see:** Rising above the treeline at the island's center is a volcanic peak — black rock, maybe 300 feet tall, sheer on three sides. Near the summit, a cave mouth gapes open, large enough to sail a small boat into. It glows faintly violet from within, a sick, steady pulse that has nothing to do with lightning. Silk banners hang from the rock face below it, black and dripping, stretching fifty feet down the cliff. The chanting they can hear from the beach is coming from up there. It is continuous. It has been going on for a long time.
 

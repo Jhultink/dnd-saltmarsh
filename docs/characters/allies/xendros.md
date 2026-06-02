@@ -28,3 +28,4 @@ The party was directed to Xendros by a tavern owner in Session 03. They have ret
 - Her true affiliation and motives are unknown. The fire realm portal and her unexplained interest in the party suggest she is more than she appears.
 - The party has purchased a Wand of Tongues (3 charges, regains 1d4 at dawn; casts Tongues) from her.
 - She appraised or browsed with the party in Session 07 — Snax wanted AC/movement items, Toro wanted curse removal for the Luck Stone. Neither purchase was confirmed.
+- Session 16: the party traded Helm of Underwater Breathing + Staff of Fish Command + 450gp for Boots of Spider Climbing and a Stormward Cloak. They overextended and now owe Xendros one magical item — a debt she noted without drama.
