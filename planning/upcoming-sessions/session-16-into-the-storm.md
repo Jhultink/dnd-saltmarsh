@@ -2,7 +2,9 @@
 
 **Picking up from:** The party agreed to sail with Captain Hex to hunt the Shadow; Anders is imprisoned, Saltmarsh is in Eda's hands.
 
-**Session goal:** Establish the Shadow as a mythic, dangerous quarry; drive the party to Lolth's Island to claim the magic compass Hex needs to navigate the storm; end with a confrontation against Lolth herself.
+**Session goal:** Establish the Shadow as a mythic, dangerous quarry; outfit the party at Xendros' shop; get them aboard the Stormcaller and into open water so Hex can brief them on the Shadow and Lolth; end at the edge of the permanent storm with the storm itself becoming real.
+
+> **Note:** The party reached the edge of the storm (end of Scene 3) and stopped here. Landing on Lolth's Island, the cave-sanctum, the Lolth fight, and the first glimpse of the Shadow have moved to [Session 17 — Lolth's Island](session-17-lolths-island.md).
 
 ---
 
@@ -95,85 +97,17 @@ A sailor might share a fragment of local myth: "The storms don't kill you. They 
 
 The storm ring is wide — it would take most of a day to sail around trying to find an entry point, and there may not be one. The only way in is through.
 
-### Scene 4 — Landing on the Island
-Intercepting the island is itself a challenge — it doesn't sit still. It orbits the interior of the storm in a slow, wide ring, and heading straight for it puts you where it was, not where it is. Hex knows roughly how to pace the intercept, but it takes work (Navigation skill challenge to land without being dashed against the rocks).
-
-When they make landfall: it is raining. Not storm-rain — a steady, cold, relentless downpour that falls
- straight down even when the winds are screaming around the island's edge. The trees are dark and waterlogged. Spiderwebs hang everywhere, silver with rain. The island feels watched.
-
-**The first thing they see:** Rising above the treeline at the island's center is a volcanic peak — black rock, maybe 300 feet tall, sheer on three sides. Near the summit, a cave mouth gapes open, large enough to sail a small boat into. It glows faintly violet from within, a sick, steady pulse that has nothing to do with lightning. Silk banners hang from the rock face below it, black and dripping, stretching fifty feet down the cliff. The chanting they can hear from the beach is coming from up there. It is continuous. It has been going on for a long time.
-
-**Creepy hooks — as they move through the tree line toward the base of the peak:**
-- Cocoons hang from the branches — dozens of them. Most are old, the shapes inside collapsed and dry. One near the path is fresh. It's moving.
-- A ship's figurehead, a carved woman with her arms raised, is mounted on a driftwood post like a trophy. The name painted on its base: *Empress of the Waves*. This is where Krell came from.
-- Webbing on the ground forms patterns — not random, deliberate, dense lines and curves. A DC 14 Arcana or Religion check identifies it as Abyssal script, repeating the same phrase: *She waits. She has always waited.*
-- One cultist is already dead, webbed to a tree at the path's edge. No wounds. No signs of a fight. Just cocooned and left, facing the cave. A failed offering, or a warning to the others.
-
-**The patrol ambush:** About 60 feet into the tree line, a patrol finds them — or has been waiting. They don't call out. They don't warn. They simply attack.
-
-*Composition:* 3 Lolth Cultists (use **Cult Fanatic**, MM p. 345) + 2 **Giant Spiders** (MM p. 328) + 1 **Phase Spider** (MM p. 334)
-
-*Tactics:*
-- The cultists fight to the death — no morale breaks, no surrender. They are not afraid of dying here.
-- The giant spiders attempt to web and restrain; the cultists close on restrained targets.
-- The phase spider engages, then when reduced to half HP it blinks out and retreats — phasing upward through the rock toward the cave mouth. It does not return. It is reporting.
-
-*After the fight:* The silence that follows is louder than the fight. The chanting from above hasn't stopped. It hasn't changed tempo. They already knew.
-
-### Scene 5 — Entering Lolth's Cave
-Moving inland, the party follows the signs toward a cave mouth in the island's rocky heart — the sanctum. The cave opens into a network of branching tunnels, all carved or worn into the volcanic rock, all strung with silk. Somewhere at the end of it is a sealed door. Behind the door is Lolth.
-
-The party needs to find the key. It's in one of the branches. So is everything else she's kept here.
-
-**Room 1 — The Offering Hall** *(entry room)*
-The first chamber past the entrance. Rows of stone shelves line the walls, covered in webbed offerings: weapons, jewelry, coins, sailors' personal effects. A tripwire of near-invisible web silk runs across the room at shin height — DC 14 Perception to spot. Triggering it drops a **Swarm of Spiders** (MM p. 338) from the ceiling. The offerings are real; a patient party can loot roughly 80gp in assorted valuables.
-
-**Room 2 — The Cells**
-Three iron cages hang from the ceiling on web-chain rigging, swaying slightly. Two are empty. One holds a surviving sailor — gaunt, barely conscious, been here for weeks. He was dragged through the caves when they brought him in and has a rough sense of the layout. He can tell the party which tunnel the cultists avoided (Room 7). He's not in fighting shape. Getting him out and back to Hex is possible but complicates the session. Leave that choice to the players.
-
-**Room 3 — The Drider's Watch** *(Combat #1)*
-A **Drider** (MM p. 120) patrols this passage. It was a cultist who failed Lolth — her punishment is visible and permanent. It won't parley. On its body when it dies: a fragment of hide with a rough sketch of the cave layout, marking the sealed door but not the key room. Useful orientation.
-
-**Room 4 — The Web Maze**
-Floor to ceiling, this room is strung with a dense lattice of sticky webs. Moving through counts as difficult terrain; on a failed DC 13 Str save, a creature becomes restrained and must use an action to free itself. In the center: a wooden chest. Inside: 2 *Potions of Spider Climb* and a drow-made shortsword (+1, deals an extra 1d4 poison damage on hit). The chest is not trapped. Getting to it is the puzzle.
-
-**Room 5 — The Altar of the Deep Queen** *(Major lore)*
-A massive stone altar, covered in decades of old blood, a carved spider looming above it on the wall. A DC 14 Religion check reading the inscriptions reveals the key lore: *Lolth came to this island 60 years ago, drawn by the Shadow's curse. She believes whoever breaks that curse will release something ancient — something that predates even her claim on the Abyss. She is not protecting the compass to stop the Shadow from being found. She is protecting it to ensure she controls when, and by whom.* The party should find this unsettling. Hex will want to know.
-
-**Room 6 — The Poison Laboratory**
-A cultist's workspace: vials, preserved spider specimens, web-distilled compounds on a rack. **Free loot:** 1d4 doses of Phase Spider Venom (on a failed DC 13 Con save, target is paralyzed until end of their next turn). One cabinet is trapped — a wrong latch releases contact poison mist, DC 14 Con save or poisoned for 1 hour. DC 13 Investigation to spot the trap before opening.
-
-**Room 7 — The Phase Spider Nest** *(Combat #2)*
-The tunnel opens into a wider cavern, the floor uneven, the ceiling high and webbed over. **3 Phase Spiders** (MM p. 334) lair here. They blink in, attack, blink out — never staying still, never in the same position twice. This is harder than the outdoor patrol. The sailor in Room 2 can warn them this room exists if they speak to him first.
-
-**Room 8 — The Reliquary**
-Shelves of trophies: broken weapons, a shattered non-magical compass, a drow noble's signet ring (worth 200gp to the right buyer). A DC 14 Perception check spots a seam in the stone behind the bottom shelf — a false panel. Behind it: the **silver spider key**, small and ornate, cold to the touch. It is protected by a **Glyph of Warding** (DC 15 Investigation to spot before triggering; 3d8 lightning damage, DC 14 Dex save for half).
-
-**Room 9 — The Obsidian Mirror**
-A floor-to-ceiling mirror of polished black volcanic glass. It does not show reflections. It shows the past — specifically, *this island's* past. Characters who spend a minute watching it see: a ship breaking apart in the storm, survivors dragged from the water by cultists, one young survivor being brought before a spider-silk altar and marked. The survivor is Krell. He didn't escape this island. He was *sent*. Watching the full vision requires a DC 12 Wis save or the character is **frightened** until the end of their next turn — Lolth's face appears at the end, looking back out of the mirror directly at them. She knows they're here.
-
-**Room 10 — The Sealed Door** *(leads to Lolth)*
-A stone door, eight feet tall, carved with Lolth's symbol — a spider at the center of a web that covers the entire surface. The keyhole is the spider's body. Unlocking it with the silver key causes the web carving to retract into the stone like legs pulling inward. Beyond it: Lolth's sanctum. The compass is in there. So is she.
-
-### Scene 6 — The Shadow at the Edge of Sight
-Whether the party fights, parleys, or sneaks through, close the session with the Shadow itself becoming visible: a massive black-hulled galleon, moving under full sail with no wind to drive it, silent except for the creak of rigging. No lights. No crew on deck. Just the ship, sailing alone.
-
-It's huge. Bigger than it has any right to be.
-
-The party is close enough to see it. Not close enough to board. End there.
+*This is where Session 16 ended. The party stands at the edge of the storm, ready to enter. Landing on the island, the cave-sanctum, Lolth, and the first glimpse of the Shadow continue in [Session 17 — Lolth's Island](session-17-lolths-island.md).*
 
 ---
 
 ## Encounters
 
+Scenes 1–3 are RP and atmosphere — no combat this session. The skill challenge below only triggers if the party pushes into the storm before the session ends.
+
 | Encounter | Type | Notes |
 |---|---|---|
-| Intercept the moving island | Skill challenge | Navigation challenge to pace the island's orbit and land without wrecking; 3 successes / 2 failures |
-| Storm navigation hazard | Skill challenge | 3 successes / 2 failures entering the storm; failure damages the vessel or delays landfall |
-| Island patrol (Scene 4) | Combat (appetizer) | 3 Cult Fanatics + 2 Giant Spiders + 1 Phase Spider; phase spider retreats to warn Lolth when bloodied |
-| Lolth's sanctum defenders (Scene 5) | Combat (opener) | Remaining cultists + phase spiders at the cave entrance; warm-up before Lolth manifests |
-| Lolth — avatar/demigod form | Combat (main event) | Big fight; her sanctum, her home advantage; rain intensifies, webs erupt; compass is in the center |
-| Animated rigging on the Shadow (glimpsed) | Environmental | If the party gets too close before they're ready — the rigging moves on its own, a warning |
+| Storm navigation hazard | Skill challenge | 3 successes / 2 failures entering the storm; failure damages the vessel or delays landfall. (Likely resolves in Session 17.) |
 
 ---
 
@@ -181,8 +115,11 @@ The party is close enough to see it. Not close enough to board. End there.
 
 | NPC | Goal this session | Potential hook |
 |---|---|---|
-| Captain Hex | Get the party to the compass; prove he's not reckless | Share why he's never been able to take the compass before — this is vulnerability, not weakness |
-| Lolth | Protect the compass; kill intruders | She knows what the Shadow is and what the compass can do — she may say something before the fight starts |
+| Xendros | Outfit the party before they sail | She knows where they're going without being told; *"Don't lose what you find."* |
+| Captain Hex | Brief the crew; establish the Shadow and Lolth as real threats | Hint at why he's never been able to take the compass before — vulnerability, not weakness |
+| Maren (navigator) | Plot the course from Hex's star notes | Quietly worried about what happens if the star cluster disappears before they reach the storm edge |
+| Dov (deckhand) | Survive his first deep-water voyage | Wants someone to tell him it'll be fine; asks if anyone's seen a ghost ship before |
+| Thresh (cook/"historian") | Tell sea stories | Knows a version of the Shadow myth where the cursed captain is a willing *guardian*, not a prisoner |
 
 ---
 
@@ -190,15 +127,13 @@ The party is close enough to see it. Not close enough to board. End there.
 
 | Item / Reward | Source | Notes |
 |---|---|---|
-| Magic compass (points toward the Shadow) | Lolth's sanctum | Required — without it Hex cannot navigate to the Shadow; this is the session's mission objective |
-| Captain's log fragment from a previous ship | Found on the island | Details a prior failed boarding attempt; useful foreshadowing |
-| Phase spider venom (2 doses) | Defeated phase spiders | Short Stacks might appreciate this |
+| Xendros' inventory (see Scene 1 table) | Xendros' shop | Curated for where they're headed — Spider Climb boots, Widow's Kiss daggers, Ring of Free Action, etc. |
+| Appraisal / item search | Xendros | She'll buy fairly and search for a specific item for 50gp, but can't promise it arrives before they leave |
 
 ---
 
 ## DM Notes
 
-- [ ] Stat out Lolth's avatar/demigod form — decide CR, legendary actions, lair actions (web eruptions, rain effects, spider swarms). She should be a genuine threat.
-- [ ] Does Lolth say anything before the fight? She may recognize what the compass is for and taunt Hex about it — or warn the party that the Shadow is not what they think.
-- [ ] The Shadow's cursed captain: give them a name before next session. They'll need one when the party eventually boards.
-- [ ] The Empress of the Waves captain's logs (Session 08) described an encounter with this island. The party may or may not remember this. If they do, it's a satisfying callback.
+- [ ] The Shadow's cursed captain: give them a name before the party reaches the Shadow. They'll need one when the party eventually boards.
+- [ ] The Empress of the Waves captain's logs (Session 08) described an encounter with Lolth's Island. The party may or may not remember this — if they do, it's a satisfying callback when they land in Session 17.
+- [ ] Carry forward into [Session 17](session-17-lolths-island.md): stat out Lolth's avatar form, decide whether she speaks before the fight, and the 10-room cave layout.
