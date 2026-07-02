@@ -24,7 +24,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--outline button--secondary button--lg"
-            to="/docs/sessions-recaps/session-15-confessions-at-the-docks"
+            to="/docs/sessions-recaps/session-17-the-lolth-cavern"
             style={{marginLeft: '1rem'}}>
             Latest Session
           </Link>

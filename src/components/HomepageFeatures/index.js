@@ -12,13 +12,6 @@ const FeatureList = [
     linkLabel: 'Meet the Party',
   },
   {
-    emoji: '📜',
-    title: '15 Sessions',
-    description: 'From the haunted house on the cliff to the conspiracies threatening Saltmarsh itself — all recapped.',
-    link: '/docs/sessions-recaps/session-15-confessions-at-the-docks',
-    linkLabel: 'Latest Session',
-  },
-  {
     emoji: '🐉',
     title: 'NPCs & Allies',
     description: 'Allies, enemies, and everything in between — including a cursed dragon who went by Winston.',
