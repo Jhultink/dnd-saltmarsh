@@ -114,7 +114,92 @@ A short dead-end tunnel off the main passage, half-flooded with cold rainwater t
 **Room 12 — The Sealed Door** *(final room — leads to Lolth)*
 A stone door, eight feet tall, carved with Lolth's symbol — a spider at the center of a web that covers the entire surface. The keyhole is the spider's body. Unlocking it with the silver key causes the web carving to retract into the stone like legs pulling inward. Beyond it: Lolth's sanctum. The compass is in there. So is she.
 
-### Scene 3 — The Shadow at the Edge of Sight
+### Scene 3 — The Sanctum (Lolth's Final Room)
+
+This is the climax. The sealed door opens into a volcanic cavern, roughly 60 feet wide and 80 feet long, everything slick black rock. Three things dominate the space:
+
+**The two wall crystals** — set into carved sconces on the left and right walls, each about 3 feet tall, pulsing violet, humming just below hearing. These are **binding seals** — they are what keeps the central crystal intact and Lolth imprisoned inside it. As long as both stand, the prison holds.
+
+**The central crystal** — 8 feet tall, a jagged pillar of deep violet growing from the floor at the room's midpoint. Inside it, visible as a shadow pressed against the glass, is Lolth: too many limbs, utterly still. The crystal shows no cracks — it is sealed, and she cannot yet reach through it. The compass is visible as a faint silver glint near the base, suspended inside. **The only way to get it is to break the crystal open.**
+
+**The altar** — at the far end, 60 feet from the door. The compass rests here, magnetically locked in place by the crystal's power — it won't budge until the central crystal shatters and the tether breaks.
+
+**Guarding the room:** Cultist guardians and **2 stone drider statues** flanking the altar — carved black rock, eerily detailed, posed mid-strike. They are easy to dismiss as decoration. They are not. The moment either wall crystal takes damage, both statues crack open and two living Driders tear free, animating simultaneously and attacking.
+
+---
+
+#### The Shape of the Problem
+
+The party cannot simply fight to the altar and grab the compass. It's physically tethered to the central crystal by the binding's power and won't move until the crystal breaks. To break the central crystal, both wall crystals must be destroyed first — they're the seals holding the prison intact.
+
+**The sequence is forced:**
+1. Smash both wall crystals.
+2. Break the central crystal.
+3. Grab the compass (now free on the altar).
+4. Get out before Lolth fully manifests.
+
+The party cannot avoid freeing her. That's the trap. That's the gut-punch. **They have to do it anyway.**
+
+---
+
+#### Destroying the Wall Crystals
+
+Each wall crystal has **20 HP** and takes one concentrated action (or weapon strike) to destroy. When a wall crystal is destroyed:
+- It explodes in violet shards — creatures within 5 ft take **2d6 force damage**.
+- The central crystal shudders. The compass glints brighter inside.
+- Lolth's silhouette moves for the first time.
+
+When the **second** wall crystal is destroyed, the central crystal begins to fracture on its own — deep groaning, cracks splitting down all sides, violet light bleeding through the gaps. It will fully shatter in **3 rounds** on its own, or it can be struck to shatter it immediately (one action, any damage). The choice: wait and fight, or shatter it now and start the escape clock.
+
+---
+
+#### Breaking the Central Crystal
+
+The moment the central crystal shatters:
+
+> *It doesn't break — it detonates. Violet shards scatter across the stone. The heartbeat stops. And then the room fills with a sound that is not sound: a pressure behind the eyes, a weight in the chest, a cold that doesn't touch the skin. The compass hits the altar with a hard silver ring. And from the space where the crystal was, something unfolds.*
+
+- All creatures in the room take **3d8 psychic damage** (DC 14 Wis save, half on success).
+- The compass is now free on the altar — **one action to grab it**.
+- **Lolth begins to emerge.** She needs **1 round** to fully manifest before she can act freely.
+
+**Round 1 after the shatter:** She is rising — a growing darkness at the crystal's former site, limbs unfolding from nothing. She cannot act yet, but the room reacts: webs erupt from the walls, forcing all creatures to make a **DC 13 Str save** or be restrained (one action to break free). Driders gain advantage on all attacks as she feeds them power.
+
+**Round 2+:** She's free. At the start of this round she acts — a lair-action wave targeting the largest cluster of creatures: **4d10 necrotic damage**, DC 15 Con save for half. Then full stat block. The party will not survive a prolonged fight.
+
+---
+
+#### Tactical Shape of the Fight
+
+**Phase 1 — Clear the room:** The cultist guards engage immediately. The stone drider statues flanking the altar look like art. A DC 16 Perception or Arcana check reveals faint warmth and a barely audible heartbeat from inside the stone — but most parties won't look twice. The moment any wall crystal takes damage, both statues erupt: stone shells crack and fall away, and two Driders emerge fully animate, engaging immediately. The party just woke up the altar guards by going for the crystals.
+
+**Phase 2 — The point of no return:** Both wall crystals are down, the central crystal is cracking. Someone decides: wait 3 rounds for it to shatter on its own and use the time to regroup, or shatter it now and start the 1-round escape window immediately.
+
+**Phase 3 — Grab and run:** One PC grabs the compass from the altar. Everyone heads for the door. 2 rounds before Lolth can fully act.
+
+**Optimal run:**
+- **Round 1:** Two PCs engage Driders; two sprint for wall crystals.
+- **Round 2:** Both wall crystals smashed. Central crystal begins to crack.
+- **Round 3:** Central crystal shattered (action). Compass grabbed (action). Party moves toward door.
+- **Round 4:** Everyone through the door. Lolth fully manifests to an empty room.
+
+---
+
+#### The Escape
+
+Through the door and down the tunnel with the compass. **Describe this:** the sealed door slams shut — then something hits it from the other side with a force that sends cracks running across the stone. The door holds. The tunnel is quiet.
+
+Then, from the other side, her voice. Not roaring. Not screaming. Just speaking, in Abyssal, slow and even — the voice of someone who is not surprised. Whoever understands Abyssal hears:
+
+*"You are taking it to exactly where I want it to go."*
+
+Then nothing.
+
+Let them run.
+
+---
+
+### Scene 4 — The Shadow at the Edge of Sight
 Whether the party fights, parleys, or sneaks through, close the session with the Shadow itself becoming visible: a massive black-hulled galleon, moving under full sail with no wind to drive it, silent except for the creak of rigging. No lights. No crew on deck. Just the ship, sailing alone.
 
 It's huge. Bigger than it has any right to be.
