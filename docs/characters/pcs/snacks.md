@@ -27,6 +27,9 @@ Skilled in unarmed combat — won the lizardfolk Trial of Strength in a 1v1 figh
 | Item | Notes |
 |---|---|
 | Shield | Lost in shipwreck, recovered from Winston |
+| Purple glowing orb | Found in the Lolth cavern (Session 17); purpose unknown |
+| Magical spellbook | Found in the Lolth cavern (Session 17); last journal entry hints the "curse" on Captain Hex must break twice |
+| +1 sword (1d4 acid) | Found in the Lolth cavern (Session 17) |
 
 ## Relationships
 

@@ -47,3 +47,4 @@ Arrived in Saltmarsh aboard the Sharkfin. Accepted the haunted house job from An
 - Ran the solo session (Session 11) inside Gellan Primewater's mansion — discovered weapons caches labeled for both lizardfolk and Sahuagin, and stole incriminating notes.
 - Was unconscious when Nunya escaped at the end of Session 02 — and was present when Nunya was finally killed in Session 12.
 - Swore a blood oath with Captain Hex to help claim the Shadow.
+- Spotted Abyssal runes woven into the webs inside the Lolth cavern (Session 17) — meaning not yet translated.
