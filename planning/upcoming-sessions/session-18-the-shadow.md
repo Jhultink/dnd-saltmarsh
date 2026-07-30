@@ -111,7 +111,7 @@ If they meddle, they get the story, an ally, and the worst thing that has happen
 
 Session 16 established that Hex navigates by a star cluster matching no known constellation, and that he "got the information from someone." This is that someone.
 
-**Ilvessa** *(name is a placeholder — swap freely)* **is a drider.** She was a drow priestess who failed Lolth badly enough to be remade, and being remade was not the end of the punishment — it was the start of it. She was sent back out into the world to run errands. Setting Hex was one of them.
+**Ilvessa** **is a drider.** She was a drow priestess who failed Lolth badly enough to be remade, and being remade was not the end of the punishment — it was the start of it. She was sent back out into the world to run errands. Setting Hex was one of them.
 
 **How she hid it — and that she failed.** She met him three times, always in the dark, always already seated behind a table when he arrived, always still sitting when he left. On the third meeting, leaving, **he looked back and saw her move.** Not all of it — a shift of something long and jointed in the dark behind the table, and too many of them, and the wrong height off the floor. It lasted about a second.
 
@@ -157,13 +157,9 @@ When it comes out in Scene 5, he is not deciding. He is confessing.
 
 ## Scene 2 — Off the Island
 
-The chanting has stopped.
-
-Every cultist on the island is dead. Not killed in a fight — the moment she was free she had no further use for them. The party walks back out through a treeline where everyone is simply finished, and the rain that had fallen straight down without pause since they landed **stops** partway to the beach. That silence is worse than the chanting was.
+The party walks back out through a treeline where everyone is simply finished, and the rain that had fallen straight down without pause since they landed **stops** partway to the beach.
 
 - **She does not chase.** Nothing pursues them. Play the walk out completely quiet and let the players talk themselves into a panic.
-- **Joss Tagrin** (if they brought him) is the one who says it out loud: *"Why isn't it raining?"*
-- If they left Joss caged, this is where it costs them — the cage is open and empty, and there's no blood.
 - Back aboard the Stormcaller, **Maren** wants a heading. The compass answers.
 
 **DM note:** resist any temptation to add a fight here. The party just took the worst risk of the campaign and got away clean, and the wrongness of getting away clean is the scene.
@@ -176,30 +172,33 @@ The compass points, and the weather **opens.**
 
 Hex has spent his entire adult life fighting this storm and it has never once let him through. It is letting them through now — a corridor of flat water and dead air running to the horizon, walls of black cloud standing off on either side like something holding a door.
 
-- **Hex is elated.** Let him have it. This is the best day of his life.
-- **Maren is not.** She says the quiet part: *"Six years I've plotted your courses, Captain. Weather doesn't do favors."*
-- **Dov** asks whether they're the first people to ever see this. Nobody answers him.
-- Then the Shadow: a black-hulled galleon under full sail with no wind to drive it, silent but for rigging. No lights. No crew. Far bigger than it has any right to be.
+**Hex's monologue — let it breathe. He is not ordering anyone around; he is preparing them, and himself.**
 
-### The chart on the table — the earliest tell
-
-**Put it in front of them here, before the ship.** Hex has it out and weighted down at the corners, and he's happy, and he's talking. Describe it plainly and without emphasis:
-
-> *Old hide, soft at the folds from thirty years of handling. A single point at the center. Eight lines running out from it. Rings crossing all eight at even intervals, and stars marked where the rings and the lines meet.*
-
-**Anyone may attempt DC 15 Religion or Arcana**, and the party has seen the source material twice — the wall carving in the sanctum, the sealed door, and the Abyssal runes Short Stacks found woven into the webs in Session 17. On a success:
-
-> *It isn't a constellation. It's a web. You have been looking at it since the day you set foot on that island.*
-
-If they get it, they arrive at the Shadow already suspicious of Hex, which is exactly right — and it makes Scene 5 a confrontation instead of a surprise. If they miss it, say nothing and let it sit on the table in plain sight for the rest of the session.
-
-**Hex, asked where he got it:** he'll talk about her happily. A cartographer, three meetings in back rooms thirty years ago, always seated, gone after the third. He tells it as the luckiest thing that ever happened to him.
-
-**He is lying by omission and it is the first crack.** He knows she was a drider — he saw her move on the way out — and he leaves that out of the story every single time he tells it. Play the telling as slightly *too* smooth: a well-worn anecdote with one worn patch in it.
-
-**If a player asks the question — *"was she ever standing up?"* — do not let him lie outright.** Hex doesn't lie to their faces; that's not his failure mode. He goes quiet, and then he says something like *"No. She wasn't."* And he won't elaborate until Scene 5.
-
-That's the ideal outcome: the party arrives at the Shadow knowing their captain took a map from something that wasn't a person and never mentioned it. If nobody asks, the omission just sits there and detonates later in the confession instead.
+> *Hex doesn't look back at you. He's standing at the bow, one hand on the rail, watching the corridor of dead water open ahead of the ship like something drawing back a curtain.*
+>
+> "Thirty years."
+>
+> *A beat.*
+>
+> "Thirty years I have sailed the edge of that wall and it has never once given me an inch. I have lost ships to it. I have lost men to it. I used to stand right here and dare it to open, and it never did — not once, not for anyone — and now look at it."
+>
+> *He finally turns, and there's something in his face none of you have seen before — not the tight, careful captain, not the man who plots ten moves ahead. Something younger.*
+>
+> "There's a ship down there. Somewhere past where we can see. Older than this storm, older than the town, and it's been sitting out there doing nothing but sinking, slow, for a hundred years. No crew. No captain. Just — waiting."
+>
+> "There's a chair on it."
+>
+> *He lets that sit for a second before he goes on, like he's deciding how much to give you.*
+>
+> "A captain's chair. Bolted to the deck, behind the wheel. And the story — the story I was told, a long time ago, by someone I trusted more than I should have — is that the chair's been empty since the man who built that ship sat down in it and never got back up. And that the ship needs someone in it. That it's been failing because nobody's filled it since."
+>
+> "I don't know what happens to a man who sits in a chair like that. I don't think anybody alive does. But I know what's supposed to happen if nobody ever does — and it isn't good for anyone standing on a coastline within a hundred miles of here."
+>
+> *He looks at each of you in turn now, and it's not a captain giving orders. It's something closer to an apology, offered early, before he's earned the right to need one.*
+>
+> "I've spent my whole life getting to this water. I need you to know that before we see her. Because when we do, I am going to want to do something none of you are going to like — and I would rather you hear it from me now, while there's still time to talk me out of it, than watch me walk toward it and wonder why I never said a word."
+>
+> *He turns back to the bow. Ahead, still just a suggestion in the flat grey light, something enormous is beginning to take shape.*
 
 ---
 
@@ -215,14 +214,9 @@ Empty. Silent. A century too old in every detail — rope that should have rotte
 
 > *He is not lying the way a man lies when he falls. He is stretched out — reaching, one arm forward, fingers still curled around nothing. Whatever he was carrying is not here. He was crawling toward the rail, and he did not make it.*
 
-**This is a tell and it matters later.** A **DC 15 Insight or Medicine** check reads the body honestly: he wasn't fleeing the ship, he was trying to throw something *overboard*, and he died three steps short. He was the ship's first mate. He watched **Emerich Sallow** sit down in that chair and stop existing, and he spent his last hours trying to put the compass's twin into the sea so nobody could ever find this place again.
+**This is a tell and it matters later.** A **DC 15 Insight or Medicine** check reads the body honestly: he wasn't fleeing the ship, he was trying to throw something *overboard*, and he died three steps short. He was the ship's first mate. He watched **Emerich Sallow** sit down in that chair and stop existing, and he spent his last hours trying to put the compass into the sea so nobody could ever find this place again.
 
 **Below decks.** It gets older and wronger the further down they go, and the ship is bigger inside than out. The compass keeps pulling **downward** — past the hold, past the bilge, past where a ship stops having decks.
-
-**Optional pressure while they descend** (use one or two, keep them cheap):
-- Footsteps on the deck above them, moving aft, unhurried.
-- A hammock still swinging in a room with no air moving.
-- A ship's bell rings once, from a bell that isn't there anymore.
 
 ---
 
@@ -238,63 +232,19 @@ Empty. Silent. A century too old in every detail — rope that should have rotte
 
 ### Neither orb speaks
 
-**Nothing down here talks.** No voices, no words, no bargaining. Both orbs transmit, and what they transmit arrives already inside the person receiving it, indistinguishable from their own feelings. That is the horror of the room: nobody can point at the thing that's influencing them, because from the inside it doesn't feel like influence. It feels like clarity.
+**Nothing down here talks.** No voices, no words, no bargaining. Both orbs transmit, and what they transmit arrives already inside the person receiving it, indistinguishable from their own feelings. That is the horror of the room: nobody can point at the thing that's influencing them, because from the inside it doesn't feel like influence. It feels like clarity. The party will feel *two distinct things* but will not be able to identify which feeling comes from which source.
 
-**The purple orb transmits permission.** Not an instruction — it never tells anyone to do anything. It broadcasts *relief*. A settled, physical calm: the hard part is over, the answer is obvious, the obvious thing is also the good thing, and doing it will feel like setting down something heavy. It makes the room feel **safe**, which is the single most dangerous thing it could do.
+**What the party feels — describe the effects, never identify the source:**
 
-**Describe the effect, never the source.** Don't say "the orb makes you feel calm." Say the argument someone's about to make sounds more reasonable than it did a minute ago. Say a character notices they've stopped being afraid and can't remember when. If a player asks whether something is affecting them: *you don't feel like anything is.*
+1. **A settled calm.** The hard part is over. The answer is obvious. The obvious thing is also the good thing, and doing it will feel like setting down something heavy. Someone's been holding their breath and just let it out. Someone else notices they've stopped being afraid and can't remember when. The room feels **safe** — which is the single most dangerous thing it could feel like.
 
-**It doesn't need to say "sit down."** Hex walked in here already carrying that instruction — she gave it to him thirty years ago. The orb's whole job is to make him feel good about it. It has never once had to argue with anybody.
+2. **A wordless, desperate push.** It doesn't shout or scream — it *strains*. The way a shout hurts when someone is trying to stop you stepping into the road. A physical, pleading ***no*** that carries underneath it something unmistakable: **exhaustion**, and the fact that whatever is behind it is a *person*, and that person has been doing this alone for a very long time. It doesn't ask questions, doesn't explain, can't form words — it just *pushes*, and the push is the only thing keeping anyone from walking toward the ladder.
 
-**The gold orb transmits one thing.** Wordless, warm, and pushed hard enough that it *hurts* — the way a shout hurts when someone is trying to stop you stepping into the road:
-
-> ***No.***
-
-That's all he can manage. He can't form words, can't explain, can't identify himself. He has one syllable of meaning left and he spends it every time somebody drifts toward the ladder. And underneath it, unmistakable to anyone paying attention: **exhaustion**, and the fact that whatever this is, it is a *person*, and it has been doing this alone for a very long time.
-
-**This is the light Ilvessa told him to believe.**
-
-### The tells — the chair is the trap
-
-**Nothing in this room tells the party what any of it is.** What the room gives them is four separate reasons not to touch it. Two are free.
-
-| Tell | Check | What it gives |
-|---|---|---|
-| **The chains are inscribed** | DC 17 Religion or Investigation | Worn script along the links: *the seat is a post and not a throne. It was filled and emptied once. It must not be filled again.* Blunt, unambiguous, and hard to reach — this is the one that flatly states the answer. |
-| **The first mate's body** | DC 15 Insight or Medicine, on the quarterdeck | He was crawling to the rail to throw the compass's twin into the sea. He wasn't running from the ship. He was trying to make sure nobody else ever came. |
-| **The gold orb's warning** | **Free, no roll** | Anyone who has seen the gold orb and then approaches the chair takes the wordless ***no*** to the chest. He can't form words. He can form that. And it is precisely what Ilvessa told Hex to believe — if the party has heard that line, this is the moment it detonates. |
-| **The chart is a web** | DC 15 Religion or Arcana, back in Scene 3 | If they caught it on the crossing, they already know his star map is Lolth's sigil and have had hours to sit with what that means about who sent him. |
-| **Touching the chair** | **Free** — DC 14 Wis save | On a failure, a two-second vision: a man in a captain's coat — Sallow, though they've no way to know it — lowering himself into that seat, and then not being there, and the chair not moving at all. On a success they see it and shake it off. Either way they've *seen it*. |
-
-**Read the room, not the sheet.** If the players are clearly about to sit, hand them the free tells hard and let them decide anyway. The choice must be theirs. Do not roll dice to save them from it.
+**Don't identify which orb does what.** If a player asks which feeling is coming from where, the answer is: *you can't tell. Both are just in the room, undeniable, pulling in different directions, and there's no way to know which is which.*
 
 ### Hex confesses
 
-This is the emotional centre of the session. He is not deciding anything down here. He decided thirty years ago and never told them.
-
-**Play it as relief, not as a reveal.** He is not caught — he *volunteers* it, because he's finally standing in the room and he doesn't have to carry it alone for one more minute. That's what makes it awful.
-
-What comes out, in roughly this order:
-
-1. **He's always known about the chair.** The woman who sold him the chart told him: the ship holds something that must not get out, it's had no captain in a century, it's failing, and taking the chair is the only thing that will hold it.
-2. **She wasn't a woman.** This is the hard one, and it comes out flat, because he's rehearsed it in his own head for thirty years and never once out loud. He looked back on the way out of the third meeting and saw what was under the table. Long, jointed, too many, wrong height off the floor. He took the chart anyway. *"I knew. I've always known. I decided a true map was a true map."* If the party asked him about her on the crossing and he went quiet, this is the answer to that question, and they'll know it.
-3. **He's known he was going to do it since he was twenty-two.** Every year of the exile, every deal, every course Maren ever plotted, was aimed at this room.
-4. **That's what the blood oath was for.** Not to help him claim a prize. To make sure someone would be bound to get him here. He looks at whoever swore it when he says this.
-5. **And the last thing she told him** — offered up almost as an afterthought, because he's never known what it meant and he's never stopped repeating it to himself: *"if you ever get down there and there's a light that's kind to you, believe the light."*
-
-**Then let the table sit with it.** Point 5 is the loaded gun, and there is a light in this room that has been kind to them since they walked in.
-
-**Note what point 2 does to point 5.** Hex has spent thirty years treating the drider's advice as reliable while knowing she was one of *them* — and the one piece of her advice he's never been able to use is the only piece that was ever meant to help him. He is standing in a room where both halves of that finally resolve, and he cannot see it, because the purple orb has him feeling good. Do not connect it for them. Do not have Hex connect it — he genuinely doesn't, because the purple orb has him feeling *good*, and a man who feels good doesn't re-examine his plan.
-
-**If a player connects it out loud**, that is the single best moment available in this session. Give it full weight: Hex goes quiet, looks at the gold orb, and for the first time in thirty years considers that his one lucky break might have been a hand on his shoulder.
-
-**He still asks them.** Even now — maybe *especially* now — he asks, which he has never done in the entire campaign. He genuinely wants to be talked out of it and cannot ask for that directly.
-
-**Play him honestly and sympathetically.** He is not a liar for sport. He assembled a genuinely noble plan out of real courage, real guilt about Saltmarsh and his sister, and information that was planted in him on purpose. He is completely wrong, and the players have to talk him out of the best thing he has ever tried to do.
-
-**But don't soften point 2 to protect him.** He isn't a dupe — he's a man who saw the shape of the thing under the table and chose the map. Everything since has been him proving to himself that he chose right. If the party is angrier about the drider than about the chair, that is a completely fair read and he has no defence for it.
-
-**If they're furious with him, let them be.** Their anger is earned, and he won't defend himself.
+Hex needs the party's input
 
 ---
 
@@ -330,29 +280,63 @@ Then it walks off the wreck and does not sink.
 
 ## The Gauntlet *(Branch B only)*
 
-**Lolth is not a fight.** No attack rolls against her, no HP, no initiative slot as a combatant. She is a lair-scale force that acts once per round while the party runs, and the ship coming apart is the other half of the threat. Do not let anyone roll to hit the thing wearing Hex.
+### The Breaking
 
-**Say the clock out loud, in character, before round 1.** Maren, from the Stormcaller: *"Five minutes, then I cut the line — I'm sorry, I'm sorry, five minutes!"* Nobody dies to a rule they weren't told.
+The moment Hex's hand leaves the chair, **describe the Shadow coming apart.**
 
-**Four legs, one per round, from the bottom of the hull to the Stormcaller's deck:**
+> *The ship doesn't sink. It **unravels.** The deck beneath your feet splits down the middle like something tearing open from the inside. The mast goes first — snapping clean, falling in slow sections that punch holes through the railings. Water doesn't rush in; it erupts, and where it touches the wood, the Shadow's ancient timbers blacken and crumble like ash.*
+>
+> *Every chain in the hold has gone slack. The ones holding the orbs are thrashing, wild, coiling like things that are alive. And at the center of it all — gold and violet, locked together, rising up through the collapsing ship.*
 
-| Leg | The move | Hazard |
-|---|---|---|
-| **1 — The hold** | Get out before the keel splits | Chains whip loose as the hull opens. **DC 14 Dex**, **3d8 bludgeoning** on a fail, half on a success. Failure also costs 10 ft. |
-| **2 — The lower decks** | Climb up through a ship that is folding | Stairs are gone, decks are tilting past 40 degrees. **DC 15 Athletics or Acrobatics**; on a fail, **3d8 bludgeoning** and no progress this round. |
-| **3 — The main deck** | Cross open deck under it | Lair action from the thing wearing Hex: **4d10 necrotic**, DC 15 Con for half, centered on the largest cluster of creatures. Reward anyone who spreads out. |
-| **4 — Over the rail** | Longboat or swim | The Shadow is going down and pulling everything with it. **DC 14 Str (Athletics)** or be dragged 20 ft toward the wreck and take **2d8**. |
+Hex is on the quarterdeck when this happens. He stands there for one moment, looking at his own hands like he's never seen them. Then he turns, and the thing wearing his face walks — not runs, *walks* — to the rail.
 
-**Seraphel buys them one round.** At the start of **leg 3**, he steps between the party and the thing on the quarterdeck and holds it — gold light against violet, one man against a piece of a god, and he is visibly not strong enough anymore. Everyone gets a free round of movement. This is how they survive, and it's how he introduces himself: not with a speech, with a body between them and it.
+> *"Thank you," it says. Its voice is his voice. It is not grateful. It is polite.*
 
-**Tuning:**
-- Aim for **one PC hitting 0 HP** in a typical run. A downed character costs another PC their movement for a leg to drag them — that's the pressure that makes the clock bite.
-- **Death is on the table** for a party that splits, lingers to loot, or leaves someone behind. It should not be the expected outcome.
-- Three players, levels unrecorded in the character files — **check their actual HP before the session and adjust the 3d8 / 4d10 dice up or down.** The shape matters more than the numbers.
-- **Hard line, telegraphed:** anything still aboard the Shadow at the end of leg 4 does not come back.
-- Give them outs that cost something: dropping the compass buys 10 ft; abandoning Joss buys a full round and should be remembered forever.
+Then it steps off the rail and **walks into the churning water**. It does not sink. It does not swim. It walks along the surface like the water is stone, and it does not look back.
 
-**The last image.** From the Stormcaller's deck: the storm unravelling — not closing, *unravelling*, the wall of weather that has stood for centuries coming apart like something that has been switched off. The Shadow going under. And a man in a familiar coat standing on the last of it, waving.
+### The Escape
+
+**Maren cuts the line.** The signal was supposed to be five minutes. It's been thirty seconds. She sees Hex step off the wreck and she *cuts the line*. No hesitation. The Stormcaller lurches free, and her crew digs into the oars.
+
+**The party has to get to the rail.** The ship is folding in on itself. This is not a tactical escape — this is *run*, now. The party can make Athletics or Acrobatics checks to move through the collapsing decks without taking damage, or they can just book it and accept a **DC 14 Dex save, 2d8 bludgeoning** as debris and falling rigging catches them. The most direct path is over the broken rail into the sea.
+
+**Reaching the Stormcaller:** The line is cut, the ship is pulling away with the oars. The party can try to swim for it, can call for a thrown rope, or can grab onto driftwood and hope. Swimming **DC 14 Str (Athletics)**; failure means they go under or grab something that's sinking. Nobody is coming back out to get them.
+
+### In the Water
+
+**This is where the horror sits.** The party is in the sea, the Shadow is collapsing behind them, and the Stormcaller is pulling away. They are losing the ship.
+
+Have everyone who is in the water make a **DC 13 Survival or Strength check** to grab onto something that will float — a plank, a barrel, debris that hasn't waterlogged yet. Failure means they can stay afloat but they're not anchored to anything and they're slipping.
+
+**Damage accumulates.** Every few minutes in the freezing water without shelter: **2d6 cold damage, DC 12 Constitution save for half**. This isn't a fight, it's hypothermia. Play it quiet and wrong.
+
+**The Stormcaller is wrecked.** As the party watches it pull away, they can see the damage: the mainmast is gone — snapped clean at the midline and hanging like a broken wing. The deck is scorched. The hull is taking on water on the starboard side. Maren's crew is trying to bail and sail on one reduced sail and they're barely managing it.
+
+**Night falls.** The afternoon drains away into a darkness that seems to press down on the water. The storm is still there, but it's different now — it's breaking apart. The wind is dying. But so is everything else. Cold. Dark. Quiet. The party is alone in the black, holding onto driftwood, watching the Stormcaller's lights get smaller.
+
+### The Gold Light
+
+> *Then, in the dark, something glows.*
+
+A light rises from the water. Not fire. Not a lantern. **Gold**, steady and warm, and it cuts through the dark like a hand opening.
+
+> *A man rises with it. He's tall, luminous, still dripping. For a moment he's just looking at the water like he's never seen it before. Then he looks at you.*
+>
+> *"I need you to listen very carefully," he says. "Don't let go of what you're holding."*
+
+**This is Seraphel.** He does not explain. He does not introduce himself. He simply *appears*, gold light and all, and begins moving through the water. And as he passes near each party member, the water beneath them *stops being quite so cold*. The panic lessens. The pull of hypothermia eases just enough.
+
+> *His light pulls upward. And with it, you rise. Not swimming — you are lifted. The wood beneath you, the water, the weight of everything — it comes with you. The gold light carries you like a hand under your chest, and it pulls you toward the distant lights of the Stormcaller.*
+
+He levitates them. All of them. Every member of the party, holding their driftwood, rises up out of the water on a tide of gold light and is drawn, slowly and inexorably, toward the ship.
+
+**The Stormcaller's crew does not question this.** Maren sees the gold light, sees the party rising up out of the dark, and she simply orders the crew to haul them aboard. She has learned, in the last few minutes, not to ask questions about miracles.
+
+As the last party member's feet hit the deck, **Seraphel stops glowing.** The light fades. He is just a man now, glowing faintly, standing in the center of the Stormcaller's deck. He is soaking wet and he is looking at the sky like he's seeing it for the first time.
+
+The storm breaks. Not closes — *breaks*, the wind dying, the clouds beginning to tear apart, the rain stopping mid-drop. The permanent storm around the Shadow is *gone*, and in its absence the night sky opens up. Stars. The real sky.
+
+And far behind them, in the last light of the breaking storm, **the wreck of the Shadow goes under.**
 
 ---
 
@@ -398,20 +382,9 @@ He stays. He's the campaign's new ally and the only one who understands the enem
 
 ## Loose Threads Going Out
 
-- **Branch B: the thing wearing Hex is loose**, it can go anywhere, and it is heading for people who trust him — Eda, his crew, Saltmarsh. Nobody who knows him will see it coming.
 - **Branch A: nothing has changed**, the celestial is still down there alone, the storm is still degrading, and now they know it.
-- **Eda Oweland** — either her brother is gone, or her brother is fine and she can never be told why.
-- **Seraphel** needs a history and an answer to *what does he want now.*
+- **Branch B: the thing wearing Hex is loose**, it can go anywhere, and it is heading for people who trust him — Eda, his crew, Saltmarsh. Nobody who knows him will see it coming.
 - **Ilvessa is alive and out there.** A drider running errands as a penance that hasn't ended, who did the job and then broke ranks by four words. She is the campaign's next big thread and a genuinely available ally — she has been used exactly as hard as Hex was, and unlike him, she knew what she was doing.
-- **Hex knew what she was and said nothing for thirty years.** Whether that came out on the crossing, in the confession, or from Xendros's mouth, the party now has to decide what his omissions are worth — and in Branch B they have to decide it about a man they can't ask.
-- **The star chart still works.** It is Lolth's sigil and it navigates true. Do they burn it or keep using it?
-- **The compass** — inert in Branch A, still working in Branch B. It points at whatever she wants found next.
 - **Joss Tagrin** — returning him to Saltmarsh and to the *Gull's Wager's* families.
 - **Xendros is still owed a magic item.** She has not forgotten.
-- **The orc cultist and dead human on the beach** (Session 17) were never explained.
-- Decide what Hex says when he confesses. Write the four beats out longhand; this is the scene the session is built around.
 ---
-
-## DM Checklist
-- [ ] Decide what Hex says when he confesses. Write the four beats out longhand; this is the scene the session is built around.
-- [ ] Branch A ends early and quiet. Have Scene 7A (Xendros) ready to run the same night, or a Saltmarsh side-thread to fill the time.
