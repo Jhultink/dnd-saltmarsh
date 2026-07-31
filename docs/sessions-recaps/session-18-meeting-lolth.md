@@ -1,3 +1,7 @@
+---
+title: Session 18 - Meeting Lolth
+---
+
 The party started in Lolth's lair, investigating some glowing crystals. The PCs asked Hex about an entry they found in one of the journals, thinking he might be the captain:
 
 > "She is not waiting for the curse to break. She is waiting for it to break twice. The first time was the captain. The second time will be us — whoever takes the helm next. She wants the chair filled and emptied again. I do not know why. I have stopped asking. The webs answer questions they were not asked, and I would rather not be answered."
