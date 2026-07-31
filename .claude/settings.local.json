@@ -3,7 +3,9 @@
     "allow": [
       "Bash(ls *)",
       "Bash(mkdir *)",
-      "Bash(echo *)"
+      "Bash(echo *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }

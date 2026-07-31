@@ -1,5 +1,5 @@
 ---
-title: Session 18 - Meeting Lolth
+title: Session 18 — Meeting Lolth
 ---
 
 The party started in Lolth's lair, investigating some glowing crystals. The PCs asked Hex about an entry they found in one of the journals, thinking he might be the captain:
