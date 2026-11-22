@@ -33,7 +33,7 @@
 ## Act 1 — Leaving Saltmarsh *(about 1 session)*
 
 - **Docks:** Winston and Sharky are waiting. Sharky has been hearing Snacks in his sleep since the chair.
-- Winston hears "soul held somewhere else" and "necromancer," and connects both to Chult.
+- Winston hears "soul held somewhere else" and "necromancer," and connects both to Acererak in Chult.
 - **Loose ends** (pick what the table cares about): Xendros and her debt, Eda and Hex, the cottage, the untranslated Abyssal runes, jungle gear.
 - **Getting there:** On Winston's back. It's fast, but it costs him and lays him up once they arrive at Port Nyanzaru.
 - **Snacks:** wakes in the Soulmonger and finds the Pit. End with him about to start his first bout.
@@ -81,7 +81,7 @@ Let the PCs pick a route, using the Chult hexcrawl. Don't run every location. Pi
 - **Omu:** the ruined city with the nine trickster-god shrines. The puzzle cubes are the key to the Tomb.
   - The Red Wizards' camp and Ras Nsi's yuan-ti are competing for the cubes too.
   - **The PCs aren't the only ones collecting.** Lolth-Snacks wants the cubes as well.
-- **The Fane of the Night Serpent:** Ras Nsi's temple. If he's the necromancer, this is his finale. If not, he's a lieutenant.
+- **The Fane of the Night Serpent:** Ras Nsi's temple. He's a lieutenant, not the necromancer. Open: does he serve Acererak, or is he working his own angle?
 - **Lolth's move:** Lolth-Snacks has made a deal with Ras Nsi, or is using the yuan-ti as cover.
   - **Best beat:** the party fights alongside or against "Snacks" in the Fane, and has to decide whether to hurt their friend's body.
 - **Snacks:** takes on the **Pit boss** (Warlord, VGM). Winning gives him real pull inside the Soulmonger. He can feel the party getting closer.
@@ -140,7 +140,7 @@ He's too weak to fight. The trip south finishes what the curse started. Pick one
 ## Open Questions
 
 - [ ] Sharky's class and race. Short Stacks is already a rogue, so pick a different subclass or class?
-- [ ] Winston's necromancer: Acererak, Ras Nsi, or Valindra?
+- [x] Winston's necromancer: **Acererak**. Winston knows the name and says it in Session 20
 - [ ] Lolth and the necromancer: a deal, or a side effect?
 - [ ] Who ran the Pit before Snacks?
 - [ ] Has any PC ever been raised from the dead? If so, they're withering too.
