@@ -71,4 +71,46 @@
 ## Flying to Port Nyanzaru in Chult
 - Winston flies them south, but the rot spreads across his body. He collapses in dragon form, and they crash in the jungle. This is dramatic, and it costs them their ride home. Hint that getting closer to the source of the curse is making it worse.
 
-## 
+## Into Port Nyanzaru
+
+- They crash outside the walls, and Winston shifts back to halfling form. He's barely walking
+- They limp him in and find a tavern to lay him up in
+- Winston gives them a city map and one task: **get a regional map of Chult**
+- His contact from 15 years ago is a merchant prince. Open: does Winston name him, or just say "the princes sell everything"? Winston may avoid going himself, out of shame or because he's too weak
+
+## The Merchant Prince
+
+**Setup:**
+- Port Nyanzaru is run by merchant princes. One of them sells guides, charters, and maps
+- **Jobal** (ToA) fits best, since he brokers guides and expeditions. Or swap in any prince from the module
+- He outfitted Winston's last expedition into Chult, 15 years ago. He remembers Winston **only if he sees him** (halfling form)
+
+**What he has:**
+- A map of Chult. It's good, but **Omu isn't on it**, just a blank where the old maps say "here be ruins." That blank points them toward Orolunga
+- Guides for hire, and a charter, which is the permit to explore the interior
+- Gossip: the dead wasting in the streets, Red Wizards buying up expedition gear, a lot of interest in the interior lately
+- A villa with guards, a safer place for Winston than a tavern
+
+**His price:** a job, not gold. Pick one or two:
+- **A lost expedition.** His last one went into the jungle and never came back. Find them, or find what's left. They're going that way anyway, so this pays off in Act 3
+- **The Red Wizards.** Thayans have been outbidding him for guides and gear. He wants to know why. This brings in Valindra
+- **The dead in the city.** His family's raised dead are wasting away. He wants the cause, which is the curse, so his goals line up with the party's
+- **A cut of Omu.** He wants first pick of whatever they bring back. Simple and greedy, and a reason for him to keep them alive
+
+**Paths:**
+- **If they take the job** → they get the map, the charter, and a guide recommendation. He becomes their patron
+- **If they try to buy the map outright** → he names a price that's steep on purpose, then offers the job as the cheaper way
+- **If they bring Winston along** → he recognizes him at once. He knows who else went on that expedition and that none of them came back. Open: what does he tell them, and what does Winston not want said?
+  - **If they don't bring Winston** → he's just a sharp businessman. They can still bring Winston in later and get the recognition then
+- **If they ask him to house Winston** → he agrees. It's generous, and it also gives him leverage over the party
+- **If they reveal that Winston is a dragon** → his interest sharpens. A dragon owes favors, and dragons have hoards
+- **If they mention Acererak** → he goes quiet. Open: does he know the name, or only the legend?
+- **If they mention Snacks or Lolth** → he's seen a stranger matching Snacks' description buying a map from a rival. Lolth is racing them
+- **If they refuse him or try to steal the map** → the map is in his villa, under guard. A heist is possible, but it makes an enemy of the most useful man in the city
+- **If they go to a rival prince instead** → same deal, different strings attached. Let the princes bid against each other
+
+**Leaves behind:**
+- A map of Chult with **Omu missing**, so their next goal is to find it (Orolunga)
+- A patron, and a job that pulls them into the jungle
+- Winston somewhere safe, or not
+- Optionally, a guide from the module's list
