@@ -90,3 +90,13 @@ Before writing a plan, read the most recent recap so open threads and party stat
 - Asset naming: kebab-case, descriptive (`lolth-cave.jpg`, `captain-hex.png`).
 - Verify the site still builds with `npm run build` after structural changes (new folders, sidebar edits, frontmatter changes). Content-only edits don't need it.
 - Commit after each recap or major update — the history is the campaign log.
+
+## Publishing to GitHub Pages
+
+When asked to publish/push/deploy the site:
+
+1. Update the **Latest Session** button in `src/pages/index.js` to point at the newest recap in `docs/sessions-recaps/` (`/docs/sessions-recaps/<filename-without-.md>`)
+2. Make sure the newest recap has `title:` frontmatter
+3. `npm run build` — must pass
+4. Commit and `git push origin main`
+5. `GIT_USER=Jhultink npm run deploy` (pushes `build/` to the `gh-pages` branch)
