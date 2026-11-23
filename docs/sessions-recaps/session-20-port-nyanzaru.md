@@ -1,0 +1,12 @@
+- Short Stacks and Lok and Cpt hex arrived back in saltmarsh to see Sharky and Xendros at the docks
+- Xendros took back a +1 short sword from Short Stacks to repay the debt owed to her
+- Sharky joined the group, but kept just saying "Sharky"
+- The PCs talked with Winston, who reiterated that his curse happened after he was resurrected 15 years ago while adventuring in Chult. He was fighting a Lich named Acererak. After hearing about Snacks he fears his soul may be locked somewhere, wherever Lolth's soul was trapped. They may be able so solve two problems at once.
+- Once Winston left, Sharky revealed that he could speak, and that the Gnomes were the original inhabitants of Klarg and that he was been Snack's "handler". He will join the party to help rescue Snacks.
+- The PCs visited Xendros, bought a Ring of Necrotic Resistance but owe Xendros another magical item when they return.
+- The next day Winston flew the party across the sea to Port Nyanzaru. The party found some lodging at the Hog's Head Inn, run by Belinda. The guard at the door mentioned that the curse was very common here and the temples were overrun with people seeking help.
+- Sharky and Short Stacks went to the Souk and bought some silk for Belinda, then went looking for a map.
+- Short Stacks stole 170gp from a merchant.
+- Sharky help a young orphan who was infected with the curse.
+- Short Stacks and Sharky bought a map from Gill the merchant, who gave them a deal if the planned to come back and help them fill in the map. Short Stacks left a 50gp gift and Sharky left 10gp for Gill to care for the orphans.
+- The part met back up with Winston, who said that their next goal would be the Oracle at Orolunga. The only problem: they don't have Orolunga's location on the map. Winston suggested they find one of the Merchant Princes to help them find it.
