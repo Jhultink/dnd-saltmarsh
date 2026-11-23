@@ -1,3 +1,7 @@
+---
+title: Session 20 — Port Nyanzaru
+---
+
 - Short Stacks and Lok and Cpt hex arrived back in saltmarsh to see Sharky and Xendros at the docks
 - Xendros took back a +1 short sword from Short Stacks to repay the debt owed to her
 - Sharky joined the group, but kept just saying "Sharky"
